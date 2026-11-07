@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.2",
-    "build":  2,
-    "url":  "https://raw.githubusercontent.com/conkiubebong/DaoMaiViewPhone_Update/main/releases/1.0.2/DaoMaiView-1.0.2.zip",
-    "sha256":  "58b8974ac3f4ba6647f9bf13dcf9a766444dc9c7d3d48b47063ad789ad09cf73",
-    "size":  13454639,
-    "notes":  "Sua chu loi ma trong Cai dat; dung lai hop Cai dat (muc Hieu nang cho adb, 3 mau nhanh, tab Man To / Man nho), bo tab USB",
+    "version":  "1.0.3",
+    "build":  3,
+    "url":  "https://raw.githubusercontent.com/conkiubebong/DaoMaiViewPhone_Update/main/releases/1.0.3/DaoMaiView-1.0.3.zip",
+    "sha256":  "f32a1485b941a6382ddd3afb9a62a5309b1072b04561a9695ca3515844c74004",
+    "size":  13454649,
+    "notes":  "Hieu nang: Hieu Nang Stream Sieu Cao mac dinh bat (van tat duoc); mau nhanh mac dinh Can bang; bo nhom cong tac o nho trung voi bang Them",
     "min_build":  0
 }
