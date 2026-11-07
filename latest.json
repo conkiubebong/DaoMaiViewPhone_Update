@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.4",
-    "build":  4,
-    "url":  "https://raw.githubusercontent.com/conkiubebong/DaoMaiViewPhone_Update/main/releases/1.0.4/DaoMaiView-1.0.4.zip",
-    "sha256":  "6f21307740514d7955ccbca91f492259b30786078d56b40bec9150dd1edd46b5",
-    "size":  16441348,
-    "notes":  "Them tab Da PC (MultiScreenPC): xem dien thoai cam o may khac trong LAN qua adb DaoMai (server.txt); day/keo file dung push-daomai/pull-daomai (LZ4, 64-bit); goi kem daomai-adb",
+    "version":  "1.0.5",
+    "build":  5,
+    "url":  "https://raw.githubusercontent.com/conkiubebong/DaoMaiViewPhone_Update/main/releases/1.0.5/DaoMaiView-1.0.5.zip",
+    "sha256":  "cbce80eaa2d02046dd6db1363ea395eba502ab021aece043ce27ef25b9e09a0f",
+    "size":  16897800,
+    "notes":  "Da PC: combobox Node (mac dinh) / Server, doi che do ngay khong khoi dong lai adb (adb DaoMai 6.3.0 kem theo: host:daomai-set-servers, node chet bao offline sau 4 s, loi co ten node, keepalive). Linux: goi DaoMaiView-1.0.5-linux-x86_64.tar.xz",
     "min_build":  0
 }
