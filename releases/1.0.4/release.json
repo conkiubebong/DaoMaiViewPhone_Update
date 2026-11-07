@@ -1,0 +1,9 @@
+{
+    "version":  "1.0.4",
+    "build":  4,
+    "url":  "https://raw.githubusercontent.com/conkiubebong/DaoMaiViewPhone_Update/main/releases/1.0.4/DaoMaiView-1.0.4.zip",
+    "sha256":  "6f21307740514d7955ccbca91f492259b30786078d56b40bec9150dd1edd46b5",
+    "size":  16441348,
+    "notes":  "Them tab Da PC (MultiScreenPC): xem dien thoai cam o may khac trong LAN qua adb DaoMai (server.txt); day/keo file dung push-daomai/pull-daomai (LZ4, 64-bit); goi kem daomai-adb",
+    "min_build":  0
+}
