@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.1",
-    "build":  1,
-    "url":  "https://raw.githubusercontent.com/conkiubebong/DaoMaiViewPhone_Update/main/releases/1.0.1/DaoMaiView-1.0.1.zip",
-    "sha256":  "6443dea3bc986ef604daf82c8e3d306e8ee3ac5f35f13fbe3f829550226d7503",
-    "size":  13462054,
-    "notes":  "Ban dau: dang nhap/kich hoat, dong bo giao dien web, proxy, gamepad, tu cap nhat",
+    "version":  "1.0.2",
+    "build":  2,
+    "url":  "https://raw.githubusercontent.com/conkiubebong/DaoMaiViewPhone_Update/main/releases/1.0.2/DaoMaiView-1.0.2.zip",
+    "sha256":  "58b8974ac3f4ba6647f9bf13dcf9a766444dc9c7d3d48b47063ad789ad09cf73",
+    "size":  13454639,
+    "notes":  "Sua chu loi ma trong Cai dat; dung lai hop Cai dat (muc Hieu nang cho adb, 3 mau nhanh, tab Man To / Man nho), bo tab USB",
     "min_build":  0
 }
