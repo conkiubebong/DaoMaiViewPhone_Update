@@ -1,9 +1,0 @@
-{
-    "version":  "1.0.1",
-    "build":  1,
-    "url":  "https://raw.githubusercontent.com/conkiubebong/DaoMaiViewPhone_Update/main/releases/1.0.1/DaoMaiView-1.0.1.zip",
-    "sha256":  "6443dea3bc986ef604daf82c8e3d306e8ee3ac5f35f13fbe3f829550226d7503",
-    "size":  13462054,
-    "notes":  "Ban dau: dang nhap/kich hoat, dong bo giao dien web, proxy, gamepad, tu cap nhat",
-    "min_build":  0
-}
