@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.5",
-    "build":  5,
-    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.5/DaoMaiView-1.0.5.zip",
-    "sha256":  "e9099883bc644f986470b70dd8bb81e71d13fa13895de6eeefbdb1ccf4e10450",
-    "size":  58386051,
-    "notes":  "Da PC: combobox Node (mac dinh) / Server, doi che do ngay khong khoi dong lai adb (adb DaoMai 6.3.0 kem theo: host:daomai-set-servers, node chet bao offline sau 4 s, loi co ten node, keepalive). Linux: goi DaoMaiView-1.0.5-linux-x86_64.tar.xz",
+    "version":  "1.0.6",
+    "build":  6,
+    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.6/DaoMaiView-1.0.6.zip",
+    "sha256":  "815d4e19f195b5812c0b9505b8be30f3478df3504d3f62dbb9c0b67ccba337f2",
+    "size":  58658939,
+    "notes":  "Logo moi (ho + hoa dao); doi mau video tren GPU (YUV-\u003eRGB shader, giam CPU); tuong thich NVIDIA/AMD/Intel (D3D11VA, CUDA, QSV, DXVA2); dang ky tai khoan tu app; tu kiem logo/icon khi mo; agent dien thoai cap nhat theo versionCode; goi Windows kem san DLL FFmpeg",
     "min_build":  0
 }
