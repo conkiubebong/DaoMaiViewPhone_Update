@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.7",
-    "build":  7,
-    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.7/DaoMaiView-1.0.7.zip",
-    "sha256":  "7de9b70930805868b949c11caba7017f13482695aa8e1478cdf617f13757d931",
-    "size":  58780508,
-    "notes":  "Sua loi: cham lan dau khi dong bo nhieu may, chip chon 1 may, menu the xuong dong, panel chuc nang khong keo item, resize 2 lan khi phong to, man lon ma hoa theo co hien thi. Moi: may khong khoi tao duoc (5 lan) -\u003e bao do + Thu lai, nhip tim video (het bao Stream bi treo sai), cai agent qua stream, Da PC: huong dan Server + mo tuong lua 5037, dang ky tai khoan, hieu nang 1000 may.",
+    "version":  "1.0.8",
+    "build":  8,
+    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.8/DaoMaiView-1.0.8.zip",
+    "sha256":  "e62d8209e2418d82eebff675335ca5d22d9eb1763e950aa09e10cd43ecefa7db",
+    "size":  62956715,
+    "notes":  "Sua loi: may Samsung S20 (OMX.qcom) khong view duoc (dong lenh server qua dai -\u003e DMV_ARGS), may o PC node offline (transport-id), tab P20/P30 dieu khien Control Box qua COM (CH340, driver tu cai), Wi-Fi/den flash agent, hop Thiet bi co trang thai adb/node/khoi dong lai, cua so nho vi tri, tu thay adb la + dat PATH, apk/adb/driver nhung trong exe.",
     "min_build":  0
 }
