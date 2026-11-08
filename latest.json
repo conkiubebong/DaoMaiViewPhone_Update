@@ -2,8 +2,8 @@
     "version":  "1.0.8",
     "build":  8,
     "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.8/DaoMaiView-1.0.8.zip",
-    "sha256":  "e62d8209e2418d82eebff675335ca5d22d9eb1763e950aa09e10cd43ecefa7db",
-    "size":  62956715,
-    "notes":  "Sua loi: may Samsung S20 (OMX.qcom) khong view duoc (dong lenh server qua dai -\u003e DMV_ARGS), may o PC node offline (transport-id), tab P20/P30 dieu khien Control Box qua COM (CH340, driver tu cai), Wi-Fi/den flash agent, hop Thiet bi co trang thai adb/node/khoi dong lai, cua so nho vi tri, tu thay adb la + dat PATH, apk/adb/driver nhung trong exe.",
+    "sha256":  "fcfdaff661e5401027dbd27c5f269cbde3fc703d7b6262a506f85627a80da404",
+    "size":  63306382,
+    "notes":  "Sua loi: Samsung S20 (OMX.qcom) khong view duoc (dong lenh server qua dai -\u003e DMV_ARGS), may o PC node offline (transport-id). Moi: tab P20/P30 dieu khien Control Box qua COM (CH340, ca cong o PC node qua adb 6.4.0, driver tu cai), Wi-Fi/den flash agent, hop Thiet bi (trang thai adb, node, khoi dong lai), cua so nho vi tri, tu thay adb la + dat PATH, apk/adb/driver nhung trong exe.",
     "min_build":  0
 }
