@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.8",
-    "build":  8,
-    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.8/DaoMaiView-1.0.8.zip",
-    "sha256":  "dd2b5fc4f0cf782b4c08ba389a294011200d808ca304032c0f1e6e854ea2ad61",
-    "size":  63320549,
-    "notes":  "Sua loi: Samsung S20 (OMX.qcom) khong view duoc, may o PC node offline (transport-id). Moi: tab P20/P30 dieu khien Control Box qua COM (ca cong o PC node qua adb 6.4.0, driver CH340 tu cai), Da PC: Node nhuong Server (1 encoder/may), Wi-Fi/den flash agent, hop Thiet bi (adb/node/khoi dong lai), cua so nho vi tri, tu thay adb la + dat PATH, apk/adb/driver nhung trong exe.",
+    "version":  "1.0.9",
+    "build":  9,
+    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.9/DaoMaiView-1.0.9.zip",
+    "sha256":  "0dbbcb3dad2a23df4c5a97c0d425761bbba60af3c522232834575b54a6799f20",
+    "size":  63313114,
+    "notes":  "Giao dien: panel dieu khien 380, bo cuc soi guong khi panel ben trai; panel chuc nang o man phong to 180, den pin truoc loa; popover An chuc nang cao 65% man hinh; man lon nam ngang thi luoi xuong duoi; nut phong to mac dinh mep phai cach day 30%. Hop thoai het thua khoang trang duoi; thong bao hien canh thanh trang thai. Hop Thiet bi them cot Ket noi (USB/OTG/Wi-Fi) + IP local. The: Them tag gom may dang chon, menu nhom the Them/Go N may, Them vao the lay ca may offline. Chuot phai may mat ket noi gon hon. Keo khung chon dem so may online. Proxy/Bypass bao khi khong co router DaoMai. Dung tac vu huy ca truyen file. P20/P30: Dieu khien mo khi chua noi cong, bo tieu de Cau hinh mac dinh. Tat 2 thong so debug. Chan mo app 2 lan. Linux: adb nhung san. Server kich hoat: cong 8121 (van thu 20031).",
     "min_build":  0
 }
