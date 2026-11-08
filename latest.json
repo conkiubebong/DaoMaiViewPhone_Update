@@ -2,8 +2,8 @@
     "version":  "1.0.8",
     "build":  8,
     "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.8/DaoMaiView-1.0.8.zip",
-    "sha256":  "185ba640f16c62fd83bbdc9460d5962d382bc766ea93c5b232aca287c56955a1",
-    "size":  123292450,
+    "sha256":  "dd2b5fc4f0cf782b4c08ba389a294011200d808ca304032c0f1e6e854ea2ad61",
+    "size":  63320549,
     "notes":  "Sua loi: Samsung S20 (OMX.qcom) khong view duoc, may o PC node offline (transport-id). Moi: tab P20/P30 dieu khien Control Box qua COM (ca cong o PC node qua adb 6.4.0, driver CH340 tu cai), Da PC: Node nhuong Server (1 encoder/may), Wi-Fi/den flash agent, hop Thiet bi (adb/node/khoi dong lai), cua so nho vi tri, tu thay adb la + dat PATH, apk/adb/driver nhung trong exe.",
     "min_build":  0
 }
