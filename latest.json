@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.9",
-    "build":  9,
-    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.9/DaoMaiView-1.0.9.zip",
-    "sha256":  "0dbbcb3dad2a23df4c5a97c0d425761bbba60af3c522232834575b54a6799f20",
-    "size":  63313114,
-    "notes":  "Giao dien: panel dieu khien 380, bo cuc soi guong khi panel ben trai; panel chuc nang o man phong to 180, den pin truoc loa; popover An chuc nang cao 65% man hinh; man lon nam ngang thi luoi xuong duoi; nut phong to mac dinh mep phai cach day 30%. Hop thoai het thua khoang trang duoi; thong bao hien canh thanh trang thai. Hop Thiet bi them cot Ket noi (USB/OTG/Wi-Fi) + IP local. The: Them tag gom may dang chon, menu nhom the Them/Go N may, Them vao the lay ca may offline. Chuot phai may mat ket noi gon hon. Keo khung chon dem so may online. Proxy/Bypass bao khi khong co router DaoMai. Dung tac vu huy ca truyen file. P20/P30: Dieu khien mo khi chua noi cong, bo tieu de Cau hinh mac dinh. Tat 2 thong so debug. Chan mo app 2 lan. Linux: adb nhung san. Server kich hoat: cong 8121 (van thu 20031).",
+    "version":  "1.0.10",
+    "build":  10,
+    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.10/DaoMaiView-1.0.10.zip",
+    "sha256":  "2028db8d31d763eaba916fcd734f47906c956ea87718fc0fefe24bec61434c16",
+    "size":  66298398,
+    "notes":  "Giay phep: FFmpeg doi sang ban LGPL (kem FFMPEG-LICENSE.txt + NOTICE.txt). Da PC: chia se may voi Server (Node chon may, 2 tab Dang/Khong chia se, chi cho Server IP; menu the va chuot phai); adb DaoMai 6.5.0 nhung san (share.txt / host:daomai-share). Nhan OTG/WIFI dung theo giao dien mang cua may. Panel 350, chu nho hon; khe luoi khi xoay ngang sat hon; Hien thi cham ve cham+logo (man lon va DK man nho); man noi keo duoc bang dau panel, khong lot click xuong luoi; popover An chuc nang du muc; Tu tat man hinh hoat dong; Esc khong dong man lon khi popup mo; chon luoi chi may online; tay cam ao chi bat phim da gan; Ctrl+C/V/Z/Y o DK nho toi may vua cham; hop Thiet bi them cot Ket noi + IP local; the: Them tag gom may dang chon, menu nhom the Them/Go N may; chuot phai may offline gon hon; man lon nam ngang thi luoi xuong duoi. APK: sua screenshot tren Android 14+.",
     "min_build":  0
 }
