@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.11",
-    "build":  11,
-    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.11/DaoMaiView-1.0.11.zip",
-    "sha256":  "b104e03133399015d8ecae92739f6d20e4c94cd3e975f5fdc4edffab7fc7b56d",
-    "size":  66283329,
-    "notes":  "Sua loi scrcpy chet tren nhieu may (\"read codec id: unexpected end of file\"): APK nap lib trong chinh APK thay vi file libdaomai_cv.so cu o /data/local/tmp, kiem symbol, khong de luong video chet; app cai de APK moi (versionCode theo build), pm install hong thi chay tu file da day; o hien dung ly do loi cua scrcpy.\n\nDa PC doi xung: moi PC vua server vua node, chi can nhap ip:port; tab gon lai nhu Thẻ (bo Quet LAN va Khoi dong lai adb): may tren PC nay tick = chia se, moi peer mot nhom gap (tick = noi), chip so may dung chung hinh dang/mau voi Thẻ; A va B tro lan nhau khong de quy (adb DaoMai 6.5.1 nhung san).\n\nKhe luoi theo canh ngan cua o (dung/ngang deu nhau khi xoay).\n\nMay offline chon duoc lai o Luoi va Thẻ (boi den, shift, bam); chip/the dang chon cua may offline chi ve VIEN do (khong to nen) de phan biet voi may online dang chon; thong bao \"Dang chon\" o thanh trang thai chi dem may online.\n",
+    "version":  "1.0.12",
+    "build":  12,
+    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.12/DaoMaiView-1.0.12.zip",
+    "sha256":  "6cf3d6eb2df180528dc0dbba9c4a5799ec1a2f5a99bed23965c18a6c9248424c",
+    "size":  66292088,
+    "notes":  "Icon tieu de cua so / taskbar bi mo: winit dat WM_SETICON bang mot anh 256x256 duy nhat, Windows tu co nho cho o nho (16/20/24 px) lam mat net. Da dat lai icon dung co tu .ico nhung san trong exe (16-\u003e256px da dung tay) ngay sau khi cua so hien ra.\n\nHop \"Tai khoan\" het thua khoang trang duoi khi chuyen sang doi mat khau roi quay lai (cua so khong con nho co da tung cao, do lai theo noi dung moi khung).\n\nTang bao mat giay phep VIP: is_vip()/device_cap() verify lai chu ky Ed25519 cua giay phep MOI LAN goi thay vi doc mot co nho cache - khong con mot o nho de dung cong cu kieu Cheat Engine \"dong bang\" thanh VIP vinh vien, phai va that vao logic kiem tra.\n\nServer kich hoat (active-viewcontrol) nhan bao so may dang xem moi lan app tu xac thuc (verify); tai khoan Free bao vuot gioi han (FreeDeviceLimit, mac dinh 40, cai duoc o Cai dat) thi ghi su kien \"abuse_suspected\" de admin xem xet (khong tu khoa). Trang quan tri them cot \"Dang xem\" trong bang tai khoan.\n\nThem nut \"Lam moi\" trong hop Tai khoan: vua kich hoat VIP tren trang quan tri thi bam de kiem lai ngay, khong phai cho chu ky tu hoi 10 phut.\n",
     "min_build":  0
 }
