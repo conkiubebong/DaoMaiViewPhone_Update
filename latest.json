@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.10",
-    "build":  10,
-    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.10/DaoMaiView-1.0.10.zip",
-    "sha256":  "2028db8d31d763eaba916fcd734f47906c956ea87718fc0fefe24bec61434c16",
-    "size":  66298398,
-    "notes":  "Giay phep: FFmpeg doi sang ban LGPL (kem FFMPEG-LICENSE.txt + NOTICE.txt). Da PC: chia se may voi Server (Node chon may, 2 tab Dang/Khong chia se, chi cho Server IP; menu the va chuot phai); adb DaoMai 6.5.0 nhung san (share.txt / host:daomai-share). Nhan OTG/WIFI dung theo giao dien mang cua may. Panel 350, chu nho hon; khe luoi khi xoay ngang sat hon; Hien thi cham ve cham+logo (man lon va DK man nho); man noi keo duoc bang dau panel, khong lot click xuong luoi; popover An chuc nang du muc; Tu tat man hinh hoat dong; Esc khong dong man lon khi popup mo; chon luoi chi may online; tay cam ao chi bat phim da gan; Ctrl+C/V/Z/Y o DK nho toi may vua cham; hop Thiet bi them cot Ket noi + IP local; the: Them tag gom may dang chon, menu nhom the Them/Go N may; chuot phai may offline gon hon; man lon nam ngang thi luoi xuong duoi. APK: sua screenshot tren Android 14+.",
+    "version":  "1.0.11",
+    "build":  11,
+    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.11/DaoMaiView-1.0.11.zip",
+    "sha256":  "8907750dc6813294964e66ce4b36deed16ceae54c1acfe08b9fcb26b6e490784",
+    "size":  66298855,
+    "notes":  "Sua loi scrcpy chet tren nhieu may (\"read codec id: unexpected end of file\"): APK nap lib trong chinh APK thay vi file libdaomai_cv.so cu o /data/local/tmp, kiem symbol, khong de luong video chet; app cai de APK moi (versionCode theo build), pm install hong thi chay tu file da day; o hien dung ly do loi cua scrcpy. Da PC doi xung: moi PC vua server vua node, chi can nhap ip:port; tab moi (may tren PC nay tick = chia se, moi peer mot nhom gap, tick = noi, chip so may); A va B tro lan nhau khong de quy (adb DaoMai 6.5.1 nhung san). Khe luoi theo canh ngan cua o (dung/ngang deu nhau).",
     "min_build":  0
 }
