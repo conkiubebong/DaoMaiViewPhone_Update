@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.14",
-    "build":  14,
-    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.14/DaoMaiView-1.0.14.zip",
-    "sha256":  "231d7b966b83cc4da0ed38a64fcb03539b24432b5912fb9ee2c5271300a1e95a",
-    "size":  66300451,
-    "notes":  "Sua giay phep VIP khong nhan dung (khoa ky bi doi khi deploy lai server); sua cap nhat bi loi khi adb/DaoMaiView cu con giu file; sua Da PC: may da tat lai hien sau khi adb tu khoi dong lai.",
+    "version":  "1.0.15",
+    "build":  15,
+    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.15/DaoMaiView-1.0.15.zip",
+    "sha256":  "a443181e7e5a24e977de38f589e3d67567037c4e723fcae1ec704e199bfe6a40",
+    "size":  66309251,
+    "notes":  "Sua loi treo khi mo app lan 2 (SendMessageTimeoutW thay GetWindowTextW cho cua so cua tien trinh khac, tranh treo vo han); adb tu kiem phien ban luc khoi dong, neu server dang chay anh cu (sau khi app tu cap nhat) thi tu khoi dong lai bang ban moi; hop Thiet bi them 2 nut Diet adb server / Khoi dong lai adb server.",
     "min_build":  0
 }
