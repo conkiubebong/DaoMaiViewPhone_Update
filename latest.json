@@ -2,8 +2,8 @@
     "version":  "1.0.11",
     "build":  11,
     "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.11/DaoMaiView-1.0.11.zip",
-    "sha256":  "98377a34c6072d352583aed2a217b93b079d306a58be7853278037745d4fd951",
-    "size":  66283367,
-    "notes":  "Sua loi scrcpy chet tren nhieu may (\"read codec id: unexpected end of file\"): APK nap lib trong chinh APK thay vi file libdaomai_cv.so cu o /data/local/tmp, kiem symbol, khong de luong video chet; app cai de APK moi (versionCode theo build), pm install hong thi chay tu file da day; o hien dung ly do loi cua scrcpy. Da PC doi xung: moi PC vua server vua node, chi can nhap ip:port; tab moi (may tren PC nay tick = chia se, moi peer mot nhom gap, tick = noi, chip so may); A va B tro lan nhau khong de quy (adb DaoMai 6.5.1 nhung san). Khe luoi theo canh ngan cua o (dung/ngang deu nhau).",
+    "sha256":  "b104e03133399015d8ecae92739f6d20e4c94cd3e975f5fdc4edffab7fc7b56d",
+    "size":  66283329,
+    "notes":  "Sua loi scrcpy chet tren nhieu may (\"read codec id: unexpected end of file\"): APK nap lib trong chinh APK thay vi file libdaomai_cv.so cu o /data/local/tmp, kiem symbol, khong de luong video chet; app cai de APK moi (versionCode theo build), pm install hong thi chay tu file da day; o hien dung ly do loi cua scrcpy.\n\nDa PC doi xung: moi PC vua server vua node, chi can nhap ip:port; tab gon lai nhu Thẻ (bo Quet LAN va Khoi dong lai adb): may tren PC nay tick = chia se, moi peer mot nhom gap (tick = noi), chip so may dung chung hinh dang/mau voi Thẻ; A va B tro lan nhau khong de quy (adb DaoMai 6.5.1 nhung san).\n\nKhe luoi theo canh ngan cua o (dung/ngang deu nhau khi xoay).\n\nMay offline chon duoc lai o Luoi va Thẻ (boi den, shift, bam); chip/the dang chon cua may offline chi ve VIEN do (khong to nen) de phan biet voi may online dang chon; thong bao \"Dang chon\" o thanh trang thai chi dem may online.\n",
     "min_build":  0
 }
