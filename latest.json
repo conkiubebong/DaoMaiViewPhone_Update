@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.12",
-    "build":  12,
-    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.12/DaoMaiView-1.0.12.zip",
-    "sha256":  "6cf3d6eb2df180528dc0dbba9c4a5799ec1a2f5a99bed23965c18a6c9248424c",
-    "size":  66292088,
-    "notes":  "Icon tieu de cua so / taskbar bi mo: winit dat WM_SETICON bang mot anh 256x256 duy nhat, Windows tu co nho cho o nho (16/20/24 px) lam mat net. Da dat lai icon dung co tu .ico nhung san trong exe (16-\u003e256px da dung tay) ngay sau khi cua so hien ra.\n\nHop \"Tai khoan\" het thua khoang trang duoi khi chuyen sang doi mat khau roi quay lai (cua so khong con nho co da tung cao, do lai theo noi dung moi khung).\n\nTang bao mat giay phep VIP: is_vip()/device_cap() verify lai chu ky Ed25519 cua giay phep MOI LAN goi thay vi doc mot co nho cache - khong con mot o nho de dung cong cu kieu Cheat Engine \"dong bang\" thanh VIP vinh vien, phai va that vao logic kiem tra.\n\nServer kich hoat (active-viewcontrol) nhan bao so may dang xem moi lan app tu xac thuc (verify); tai khoan Free bao vuot gioi han (FreeDeviceLimit, mac dinh 40, cai duoc o Cai dat) thi ghi su kien \"abuse_suspected\" de admin xem xet (khong tu khoa). Trang quan tri them cot \"Dang xem\" trong bang tai khoan.\n\nThem nut \"Lam moi\" trong hop Tai khoan: vua kich hoat VIP tren trang quan tri thi bam de kiem lai ngay, khong phai cho chu ky tu hoi 10 phut.\n",
+    "version":  "1.0.14",
+    "build":  14,
+    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.14/DaoMaiView-1.0.14.zip",
+    "sha256":  "231d7b966b83cc4da0ed38a64fcb03539b24432b5912fb9ee2c5271300a1e95a",
+    "size":  66300451,
+    "notes":  "Sua giay phep VIP khong nhan dung (khoa ky bi doi khi deploy lai server); sua cap nhat bi loi khi adb/DaoMaiView cu con giu file; sua Da PC: may da tat lai hien sau khi adb tu khoi dong lai.",
     "min_build":  0
 }
