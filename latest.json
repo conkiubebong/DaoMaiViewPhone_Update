@@ -2,8 +2,8 @@
     "version":  "1.0.11",
     "build":  11,
     "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.11/DaoMaiView-1.0.11.zip",
-    "sha256":  "8907750dc6813294964e66ce4b36deed16ceae54c1acfe08b9fcb26b6e490784",
-    "size":  66298855,
+    "sha256":  "98377a34c6072d352583aed2a217b93b079d306a58be7853278037745d4fd951",
+    "size":  66283367,
     "notes":  "Sua loi scrcpy chet tren nhieu may (\"read codec id: unexpected end of file\"): APK nap lib trong chinh APK thay vi file libdaomai_cv.so cu o /data/local/tmp, kiem symbol, khong de luong video chet; app cai de APK moi (versionCode theo build), pm install hong thi chay tu file da day; o hien dung ly do loi cua scrcpy. Da PC doi xung: moi PC vua server vua node, chi can nhap ip:port; tab moi (may tren PC nay tick = chia se, moi peer mot nhom gap, tick = noi, chip so may); A va B tro lan nhau khong de quy (adb DaoMai 6.5.1 nhung san). Khe luoi theo canh ngan cua o (dung/ngang deu nhau).",
     "min_build":  0
 }
