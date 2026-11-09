@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.15",
-    "build":  15,
-    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.15/DaoMaiView-1.0.15.zip",
-    "sha256":  "a443181e7e5a24e977de38f589e3d67567037c4e723fcae1ec704e199bfe6a40",
-    "size":  66309251,
-    "notes":  "Sua loi treo khi mo app lan 2 (SendMessageTimeoutW thay GetWindowTextW cho cua so cua tien trinh khac, tranh treo vo han); adb tu kiem phien ban luc khoi dong, neu server dang chay anh cu (sau khi app tu cap nhat) thi tu khoi dong lai bang ban moi; hop Thiet bi them 2 nut Diet adb server / Khoi dong lai adb server.",
+    "version":  "1.0.16",
+    "build":  16,
+    "url":  "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.16/DaoMaiView-1.0.16.zip",
+    "sha256":  "b2b6d86846c26079477553d68da35eb9e308abe7350d6fee379abe2434b4c93d",
+    "size":  66322816,
+    "notes":  "Sua tiep lan treo khi mo app lan 2: ShowWindow/SetForegroundWindow len cua so tien trinh khac cung co the gui message dong bo va treo, nay boc trong luong rieng co han gio 800ms. Nhuong 1.5s dau cho cua so dung xong truoc khi don viec ket noi may (giam nguy co man hinh dung lai luc moi mo, dac biet khi co nhieu may). Hop that bai cap nhat them nut mo thang trang GitHub Releases de tai tay khi mang/CDN loi.",
     "min_build":  0
 }
