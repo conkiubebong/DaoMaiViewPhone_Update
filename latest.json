@@ -1,10 +1,10 @@
 {
-  "build": 21,
+  "build": 22,
   "min_build": 0,
-  "notes": "- Sửa máy Recovery (TWRP) không điều khiển được\n- Ô \"Stream bị treo\" giờ tự kết nối lại thật (WiFi rớt / máy ngủ)\n- Hộp thoại cập nhật: ghi chú dài cuộn được, nút Cập nhật luôn hiện\n",
-  "sha256": "0fbe83965372de9a2c90b536f9896e69d14ffd013a834608c6890045531c8166",
-  "sig": "rSZKEhjl0CM3Jh+iHPpEEJhMrLKkyemk0xJWVNvmC7dvXzH2BFU/4EAbsJc2RRcZ3aGxm9B6jRqEwefOldIqDg==",
-  "size": 69071096,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.21/DaoMaiView-1.0.21.zip",
-  "version": "1.0.21"
+  "notes": "Ổn định luồng hình & tự phục hồi\n- Ô treo tự phục hồi THẬT: khi máy khởi động lại / scrcpy / encoder chết mà đường truyền vẫn còn \"nhịp tim\", app tự dò keyframe → reset encoder → chạy lại scrcpy. Không còn đứng hình chờ phóng to mới chạy lại.\n- Ô treo hiện nền trơn riêng, không còn đè cảnh báo lên khung hình lỗi.\n- Đổi phiên video (phóng to / đổi cỡ) dựng decoder mới và chờ keyframe sạch — hết hiện tượng chữ, hình lỗi đè lên nhau.\n- Luồng video im quá lâu thì tự kết nối lại (trước báo \"đang tự kết nối lại\" nhưng không bao giờ kết nối lại).\n\nKhởi động & hiệu năng\n- Khởi động song song tối đa 20 máy cùng lúc — nhanh hơn nhiều khi mở nhiều máy.\n\nĐiều khiển\n- Điều khiển màn nhỏ: làm nóng sẵn kênh điều khiển cho máy đang rê chuột, thao tác đầu không còn bị mất.\n- Máy đang ở Recovery (TWRP) điều khiển lại được; thao tác TWRP chỉ dành cho gói Pro Max.\n\nThiết bị & giao diện\n- Hộp Thiết bị kéo dãn được và nhớ kích thước giữa các lần mở lại.\n- Thông báo gom gọn trong một dòng ở góc trái.\n- Tab Đa PC hiện 2 tầng: ip:port + tốc độ kết nối, dưới là tên PC và tên người dùng (nếu có).\n\nĐèn flash\n- Sửa đồng bộ bật/tắt đèn flash trên nhiều máy cùng lúc; màn hình không còn bị activity che.\n\nQuyền & bảo mật\n- Diệt adb của phần mềm khác: xin quyền admin khi cần, báo nếu adb khởi động lại.\n",
+  "sha256": "304c1a13824cdb35266f34ec32afc1f4182b2590caea085594a4b95df44290b1",
+  "sig": "TOty+tT/+1tjOXgjahQFJrwvvkKJcP+gx4CZEHaOnoxsnzGVzV+2DG429az/ZTHHGES367wf57GwaEWHWwZBAQ==",
+  "size": 69113227,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.22/DaoMaiView-1.0.22.zip",
+  "version": "1.0.22"
 }
