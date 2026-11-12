@@ -1,10 +1,10 @@
 {
-  "build": 24,
+  "build": 25,
   "min_build": 0,
-  "notes": "Recovery (TWRP) — máy Snapdragon\n- Sửa lỗi không xem được màn máy Snapdragon đang ở TWRP (S20/Note20/Z Flip…): nguyên nhân là màn tự tắt sau một lúc + phím nguồn bật/tắt luân phiên gây nhấp nháy đen/sáng. Nay chỉ tự bật màn khi đúng là màn đang tắt, giữ hình ổn định. Máy Exynos (S8/S9/Note8) vẫn xem tốt như trước.\n\nView nhanh\n- Đẩy agent lên xem NGAY từ file rồi mới cài ở nền: máy chưa cài / bản cũ / bản ngoài đều lên hình nhanh, không phải chờ cài xong. Máy đã đúng bản mới thì xem thẳng.\n\nGiao diện agent (apk)\n- Thiết kế lại theo phong cách DaoMai: danh sách gấp mở (bấm mục nào mở mục đó, mở mục khác thì đóng mục cũ). Nhẹ hơn: bỏ kiến trúc x86/x86_64 (3,3MB → 1,4MB), vẫn hỗ trợ cài xapk/mapk.\n\nKhác\n- Icon trên thanh taskbar Windows nét và đầy đặn hơn ở màn hình DPI cao.\n- Đa PC: không còn nổi thông báo lỗi \"connection refused\" lúc mới khởi động (adb chưa kịp lên).\n",
-  "sha256": "c452bb2b92b49326a965dac643a8b3b04aa5d9b85685913078638cf1c3ca7156",
-  "sig": "NX5DeR6cjxbJXBxmkTq5VX1wowe7gQqYd78Tr1vX2hibcPzzcmbZcnAzEsYRG4WaFXvRkBMotwgLkKOfAMXGBg==",
-  "size": 68097387,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.24/DaoMaiView-1.0.24.zip",
-  "version": "1.0.24"
+  "notes": "Sửa máy không xem được (Android 17 / ROM lạ)\n- Một số máy ROM mới (vd SM-F776Q Android 17) bị kẹt \"đang khởi tạo\", không bao giờ lên hình: do lệnh đọc thông tin máy gặp lệnh hệ thống in kết quả rồi không thoát làm treo cả bước. Đã bọc giới hạn thời gian → máy vào xem bình thường (xác nhận trên máy thật: video lên, dùng bộ mã hoá phần mềm của Android 17).\n\nView nhanh chắc hơn\n- Nếu đẩy file agent xem-nhanh bị lỗi nhưng máy đã cài sẵn đúng bản agent của ta → vẫn xem tạm từ bản đã cài thay vì bỏ qua máy.\n- Kiểm tra chặt bước đổi tên file đã đẩy (không báo thành công giả).\n",
+  "sha256": "3f1365ec907827eb54577cee92f3010fb133e313f8e3f3233559358732404e7e",
+  "sig": "FI4OuBwCaJlqmq01JV5ncHQ+Hahnh/w41pFLc76XN3WkBOUb4802FckXVmW/x5kNyNxD72NJWtEO8jym5RmECQ==",
+  "size": 68098953,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.25/DaoMaiView-1.0.25.zip",
+  "version": "1.0.25"
 }
