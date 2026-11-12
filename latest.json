@@ -1,10 +1,10 @@
 {
-  "build": 29,
+  "build": 30,
   "min_build": 0,
-  "notes": "Điều khiển Recovery (TWRP) máy không màn hình vật lý\n- Nay điều khiển được máy đang ở TWRP dù đã tháo màn hình vật lý: dùng màn cảm ứng ảo giữ sống suốt phiên để TWRP nhận (trước đây tạo/xóa mỗi lần chạm nên TWRP chưa kịp nhận). Cũng sửa thao tác \"nhấc tay\" chuẩn hơn (lợi cho cả máy còn màn).\n\nPhóng to mượt hơn\n- Sửa lỗi có lúc phóng to một máy bị hiện ảnh nhỏ zoom to (lem) thay vì chuyển sang độ phân giải lớn.\n",
-  "sha256": "354c44874083234f9b42dba346ebcdf2a989b9ee7c73dc143a1f1ed1929ed71b",
-  "sig": "BipJBrrb1+h/3D+1WnHFrRvKK72MwA5S4Xo3tJsQ988kSdTjTkHInLSmGq6YrxMKPYzGqEnx9/rc/IFMg0stCw==",
-  "size": 68138392,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.29/DaoMaiView-1.0.29.zip",
-  "version": "1.0.29"
+  "notes": "Sua loi may WiFi hien nham man hinh cua may khac. Them nhac 'PC chua kich hoat' khi tai khoan co VIP ma may chua duoc bat. (Quan tri: kich hoat VIP theo tung PC, thong ke chong DDoS, ghi chu lo key.)",
+  "sha256": "e4f41db95370977c797486036b65442ab6197086976db311532cb837676270d2",
+  "sig": "4HnQkDiB5zfB35MOnHSe/zqRIe6QyyRIC7SRBOV63joJgTOukuX7jxN9xd+xSYpXROm1K9l6uK886s1hL0q4Cw==",
+  "size": 68143487,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.30/DaoMaiView-1.0.30.zip",
+  "version": "1.0.30"
 }
