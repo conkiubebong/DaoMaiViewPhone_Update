@@ -1,10 +1,10 @@
 {
-  "build": 25,
+  "build": 26,
   "min_build": 0,
-  "notes": "Sửa máy không xem được (Android 17 / ROM lạ)\n- Một số máy ROM mới (vd SM-F776Q Android 17) bị kẹt \"đang khởi tạo\", không bao giờ lên hình: do lệnh đọc thông tin máy gặp lệnh hệ thống in kết quả rồi không thoát làm treo cả bước. Đã bọc giới hạn thời gian → máy vào xem bình thường (xác nhận trên máy thật: video lên, dùng bộ mã hoá phần mềm của Android 17).\n\nView nhanh chắc hơn\n- Nếu đẩy file agent xem-nhanh bị lỗi nhưng máy đã cài sẵn đúng bản agent của ta → vẫn xem tạm từ bản đã cài thay vì bỏ qua máy.\n- Kiểm tra chặt bước đổi tên file đã đẩy (không báo thành công giả).\n",
-  "sha256": "3f1365ec907827eb54577cee92f3010fb133e313f8e3f3233559358732404e7e",
-  "sig": "FI4OuBwCaJlqmq01JV5ncHQ+Hahnh/w41pFLc76XN3WkBOUb4802FckXVmW/x5kNyNxD72NJWtEO8jym5RmECQ==",
-  "size": 68098953,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.25/DaoMaiView-1.0.25.zip",
-  "version": "1.0.25"
+  "notes": "View nhanh 2 luồng (mới)\n- Máy đã cài agent của ta nhưng khác bản: nay chạy SONG SONG luồng từ bản đã cài (lên hình ngay) và luồng từ bản mới đẩy sang; khi bản mới hiện hình thì tự chuyển sang nó và tắt luồng cũ. Vào xem nhanh hơn, luôn kết thúc ở bản mới. Có công tắc bật/tắt trong Cài đặt → Luồng (mặc định bật).\n\nỔn định & dọn dẹp\n- Nhường quyền xem (Đa PC): tắt luôn cả encoder màn lớn (trước đây còn sót).\n- Tắt luồng dọn đúng tiến trình theo phiên (không để sót scrcpy trên máy).\n- Cài agent ở nền có giới hạn nhịp: máy chập chờn không bị cài đi cài lại liên tục; view nhanh vẫn chạy, phiên sau mới thử cài tiếp.\n- Đẩy file view-nhanh lỗi mà máy đã cài đúng dòng agent → vẫn xem tạm từ bản đã cài thay vì bỏ máy.\n",
+  "sha256": "01af871bd428379802fc827127cbf1e00813a6707851539f9aa34ffe98ed400c",
+  "sig": "gcHFaaf7UMVHrzIQOUGAWx6+K3tpojglsth0HqaOiz/EggpfwtqjRlg2HAWzlC9bFwbuKW72/DhKuG+uNsdTBg==",
+  "size": 68102391,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.26/DaoMaiView-1.0.26.zip",
+  "version": "1.0.26"
 }
