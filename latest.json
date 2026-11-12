@@ -1,10 +1,10 @@
 {
-  "build": 41,
+  "build": 42,
   "min_build": 0,
-  "notes": "Ban cap nhat lon: sua may WiFi hien nham man cua may khac; Da PC muot hon (chu may luon dieu khien duoc may cua minh, het dung hinh thumb khi nhieu PC xem); xem + dieu khien may Recovery/TWRP (ke ca may thao man); app xoay ngang hien dung (het vien den); Android moi chay lau khong ket 'khoi tao'; tat/bat xem tu set lai do phan giai; nhac 'PC chua kich hoat'. Quan tri: VIP kich hoat theo tung PC, thong ke chong DDoS.",
-  "sha256": "36d9e35bdf80c07618b23aaa24a436d43fb0e0eb52e75662d9712aa0af15ab15",
-  "sig": "c7rpM9H8L8L6cvOssOmPKz0nOcUim8OEB/M0RTQ2TEUu7bqRqXTr7whpmjVf0bRCHVe6VVcgOXUvaTEEUJeJDA==",
-  "size": 68144824,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.41/DaoMaiView-1.0.41.zip",
-  "version": "1.0.41"
+  "notes": "Recovery/TWRP: thêm lệnh \"Khởi động lại vào Bootloader\" trong menu chuột phải (cạnh Reboot hệ thống / Download).\nĐa PC — mục \"Máy trên PC này\" nay hiển thị dạng chip giống Thẻ: bấm để chọn, chuột phải chip mở menu máy đầy đủ (chia sẻ/forget/recovery…), chuột phải đầu nhóm để Chọn tất cả / Bỏ chọn tất cả / Chia sẻ / Huỷ chia sẻ máy đang chọn.",
+  "sha256": "a955a963887a26a9aa64a82063545728838764f867d1109e4740ca745c19a451",
+  "sig": "GFGU7ZuWBG/OLhBO68JORnkarq9dau3MzhdKoUErwD+8W3TOQrV0H1EZHYyHCedISpZ7KJgpW83+8KKsaWjfDQ==",
+  "size": 68150161,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.42/DaoMaiView-1.0.42.zip",
+  "version": "1.0.42"
 }
