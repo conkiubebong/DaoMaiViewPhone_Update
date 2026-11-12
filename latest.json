@@ -1,10 +1,10 @@
 {
-  "build": 27,
+  "build": 28,
   "min_build": 0,
-  "notes": "Sửa lỗi Đa PC quan trọng\n- Khi một PC khác khởi động lại DaoMaiView, máy đang xem/điều khiển ở PC của bạn KHÔNG còn bị treo nữa. (Trước đây mỗi PC khởi động dọn nhầm cả luồng của PC khác trên máy dùng chung.)\n\nMáy chỉ có bộ mã hoá phần mềm (ROM mới)\n- Phóng to màn hình trên máy chỉ có bộ mã hoá phần mềm (một số ROM Android mới) nay mượt hơn: tự nhận diện và hạ độ phân giải/FPS màn lớn cho vừa sức máy. Máy có mã hoá phần cứng giữ nguyên chất lượng cao.\n",
-  "sha256": "9795c2484ae1a26f6ddc83c009bda22cb27a18e4d80f2d648fa6fdfcf7ec4956",
-  "sig": "NM1CurdAEX3fpP0AGsMdAoFTrBh0qTnIBi1C4GaSThbOhwqExmsIsfpZDfvXCln6MwBwiDEiFBfgivJugHlYDg==",
-  "size": 68118717,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.27/DaoMaiView-1.0.27.zip",
-  "version": "1.0.27"
+  "notes": "Đa PC — khoá điều khiển (mới)\n- Một máy chỉ được MỘT người điều khiển tại một thời điểm: khi bạn đang chạm/vuốt một máy thì các PC khác tạm bị khoá điều khiển máy đó và thấy lớp phủ \"PC khác đang điều khiển\" (video vẫn xem được). Bạn thả tay ra là PC khác điều khiển được ngay. Khoá tự nhả nếu PC đang giữ bị treo/rớt mạng. Một PC dùng như cũ, không ảnh hưởng.\n\nTìm kiếm & hiển thị máy\n- Ô tìm kiếm nay tìm được theo loại kết nối: gõ \"usb\", \"otg\", \"wifi\", hoặc \"recovery\" để lọc nhanh.\n- Máy đang ở Recovery (TWRP) nay luôn hiện tile dù vừa vào recovery (trước đây máy recovery qua USB có thể không hiện); nhãn ghi rõ \"USB-REC\" / \"OTG-REC\".\n",
+  "sha256": "a11b8e2852dc1438d7b3260af44ade917919407a6e05e87fcf6cdee8eae769a4",
+  "sig": "IicToVbim7sBAe0HLahrdanZc+TTxpki4j1rCCfriBtQEZiAQc+5yIvP4X28n8wQ/d0t6cZuA1jYaUdBDhpZBA==",
+  "size": 68129308,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.28/DaoMaiView-1.0.28.zip",
+  "version": "1.0.28"
 }
