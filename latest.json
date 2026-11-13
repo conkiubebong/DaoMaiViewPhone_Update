@@ -1,10 +1,10 @@
 {
-  "build": 42,
+  "build": 43,
   "min_build": 0,
-  "notes": "Recovery/TWRP: thêm lệnh \"Khởi động lại vào Bootloader\" trong menu chuột phải (cạnh Reboot hệ thống / Download).\nĐa PC — mục \"Máy trên PC này\" nay hiển thị dạng chip giống Thẻ: bấm để chọn, chuột phải chip mở menu máy đầy đủ (chia sẻ/forget/recovery…), chuột phải đầu nhóm để Chọn tất cả / Bỏ chọn tất cả / Chia sẻ / Huỷ chia sẻ máy đang chọn.",
-  "sha256": "a955a963887a26a9aa64a82063545728838764f867d1109e4740ca745c19a451",
-  "sig": "GFGU7ZuWBG/OLhBO68JORnkarq9dau3MzhdKoUErwD+8W3TOQrV0H1EZHYyHCedISpZ7KJgpW83+8KKsaWjfDQ==",
-  "size": 68150161,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.42/DaoMaiView-1.0.42.zip",
-  "version": "1.0.42"
+  "notes": "Thanh trạng thái (góc trái dưới): hiện thêm CPU / RAM / GPU mà tiến trình app đang dùng, cập nhật mỗi giây. Bật/tắt chung với công tắc \"Hiện số liệu\". Máy không có bộ đếm GPU per-process thì tự ẩn phần GPU.",
+  "sha256": "56885d9a026df213ca87271f4ee8bd25f829b7b07dfd8ab1a3257e4e8cb3df1e",
+  "sig": "UpXy+LLYk09fLgvogVAu/+VIO9E/5huhzVsGbLi7C+GHHC2ughXGfaP50VNQoJXO4MHwV6BEy1iPhuYv4+GmCg==",
+  "size": 68148761,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.43/DaoMaiView-1.0.43.zip",
+  "version": "1.0.43"
 }
