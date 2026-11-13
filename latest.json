@@ -1,10 +1,10 @@
 {
-  "build": 43,
+  "build": 44,
   "min_build": 0,
-  "notes": "Thanh trạng thái (góc trái dưới): hiện thêm CPU / RAM / GPU mà tiến trình app đang dùng, cập nhật mỗi giây. Bật/tắt chung với công tắc \"Hiện số liệu\". Máy không có bộ đếm GPU per-process thì tự ẩn phần GPU.",
-  "sha256": "56885d9a026df213ca87271f4ee8bd25f829b7b07dfd8ab1a3257e4e8cb3df1e",
-  "sig": "UpXy+LLYk09fLgvogVAu/+VIO9E/5huhzVsGbLi7C+GHHC2ughXGfaP50VNQoJXO4MHwV6BEy1iPhuYv4+GmCg==",
-  "size": 68148761,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.43/DaoMaiView-1.0.43.zip",
-  "version": "1.0.43"
+  "notes": "Bản 1.0.44\n\nTWRP / Recovery:\n- Vuốt & điều khiển TWRP ổn định, hết kẹt cử chỉ khi thu/phóng.\n- Máy recovery hiện trong Thẻ (chip cam, chọn đỏ, phóng to tím) và lọc đúng tab USB/OTG/Tất cả.\n- Submenu \"Khởi động lại\": System / Recovery / Download / Bootloader (A6, Pixel) / Sideload (rê vào ở panel & menu chuột phải; bấm thẳng = System). Bật điều khiển nhỏ: bấm đúp TWRP = chạm, không phóng to.\n- Giảm \"đập\" adb khi recovery khoá chặt (backoff đẩy công cụ) -> máy USB recovery nhận ổn định hơn.\n\nLưới & hiệu năng:\n- Tách 2 khối: máy đã view ở trên, máy đang khởi tạo ở dưới (xong tự nhảy lên).\n- Chống kẹt \"đang khởi tạo\" (timeout khung đầu, tự kiểm lại máy).\n- Giảm rò rỉ bộ nhớ (hủy luồng giải mã khi rớt, dọn texture, giới hạn bộ đệm).\n- Hiện CPU/RAM/GPU của tiến trình ở góc trái dưới.\n\nTiện ích:\n- SpeedUD: gom app, mở nhanh trên các máy đang chọn, lấy icon thật từ máy.\n- Console lệnh: submenu lịch sử + lệnh hay dùng, chạy nhanh.\n- Agent cập nhật (hỗ trợ lấy icon app).",
+  "sha256": "c229ec56cab224a7218570d8373901876e27cf8cd89b9f52cfecde47538defbd",
+  "sig": "QA9tvHOr1MVbD5soH3vszjEnJ/wc3+CC0vBrpnfMiHBA5wqPjHRCLIQF8LktnPxCqSfmdLsDp6qtYXav+mI0CQ==",
+  "size": 68204506,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.44/DaoMaiView-1.0.44.zip",
+  "version": "1.0.44"
 }
