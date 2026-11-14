@@ -1,10 +1,10 @@
 {
-  "build": 44,
+  "build": 46,
   "min_build": 0,
-  "notes": "Bản 1.0.44\n\nTWRP / Recovery:\n- Vuốt & điều khiển TWRP ổn định, hết kẹt cử chỉ khi thu/phóng.\n- Máy recovery hiện trong Thẻ (chip cam, chọn đỏ, phóng to tím) và lọc đúng tab USB/OTG/Tất cả.\n- Submenu \"Khởi động lại\": System / Recovery / Download / Bootloader (A6, Pixel) / Sideload (rê vào ở panel & menu chuột phải; bấm thẳng = System). Bật điều khiển nhỏ: bấm đúp TWRP = chạm, không phóng to.\n- Giảm \"đập\" adb khi recovery khoá chặt (backoff đẩy công cụ) -> máy USB recovery nhận ổn định hơn.\n\nLưới & hiệu năng:\n- Tách 2 khối: máy đã view ở trên, máy đang khởi tạo ở dưới (xong tự nhảy lên).\n- Chống kẹt \"đang khởi tạo\" (timeout khung đầu, tự kiểm lại máy).\n- Giảm rò rỉ bộ nhớ (hủy luồng giải mã khi rớt, dọn texture, giới hạn bộ đệm).\n- Hiện CPU/RAM/GPU của tiến trình ở góc trái dưới.\n\nTiện ích:\n- SpeedUD: gom app, mở nhanh trên các máy đang chọn, lấy icon thật từ máy.\n- Console lệnh: submenu lịch sử + lệnh hay dùng, chạy nhanh.\n- Agent cập nhật (hỗ trợ lấy icon app).",
-  "sha256": "c229ec56cab224a7218570d8373901876e27cf8cd89b9f52cfecde47538defbd",
-  "sig": "QA9tvHOr1MVbD5soH3vszjEnJ/wc3+CC0vBrpnfMiHBA5wqPjHRCLIQF8LktnPxCqSfmdLsDp6qtYXav+mI0CQ==",
-  "size": 68204506,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.44/DaoMaiView-1.0.44.zip",
-  "version": "1.0.44"
+  "notes": "1.0.46\n- SpeedUD (mở app nhanh trên nhiều máy): thêm app theo tên gói, icon tự lấy khi phóng to máy, kéo-thả sắp xếp, bật/tắt từng app, badge kề nút phóng to; trình quản lý kiểu hộp thoại chuẩn.\n- Nút \"?\" giải thích ở mọi hộp thoại chức năng (7 ngôn ngữ).\n- Icon thật cho danh sách ứng dụng của máy.\n- Nút Home kèm đánh thức màn hình (không dùng phím nguồn).\n- Khắc phục máy kẹt \"đang khởi tạo\" khi tắt màn.\n- Tự cập nhật apk view bản cũ trên máy khi xem.\n- Cập nhật qua LAN giữa các PC.",
+  "sha256": "7d8529d950ce214bb6428556513d2bbce7d29e936fba7b8afd9d54d1ba2df70c",
+  "sig": "4OgFACjb5jeP5dO3DGcnRyqiaIFVShv7dAqnkcDfggoY1EJVeIWohokZ3lFNCht8GzehZNynsnbTEfE9MF1HDQ==",
+  "size": 68286576,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.46/DaoMaiView-1.0.46.zip",
+  "version": "1.0.46"
 }
