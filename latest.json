@@ -1,10 +1,10 @@
 {
-  "build": 52,
+  "build": 53,
   "min_build": 0,
-  "notes": "Gamepad: menu icon tron doc, nhan do, nut an/hien nut da ghim, bao nut chua gan phim, da diem cham. Phong to man nho (doi ten kinh lup): ghim bang Alt, tieu de STT-serial-IP. Cu chi cuon: cuon=vuot may, Shift=cuon luoi, Ctrl=phong to, Ctrl+Shift=doi co o. Them 2 co o nho + nut '!' tro giup tung chuc nang (du 7 ngon ngu). Giai ma: them che do 'Can bang CPU+GPU' tu chia tai theo so nhan CPU (Xeon nhieu nhan uu tien CPU, may yeu offload GPU). TWRP: xoay ngang tuy chon, sua dieu khien may thao man (988e) + warm phien recovery. Them Xoa clip / Tim kiem vao panel. Chong sua file: tu kiem chu ky Authenticode.",
-  "sha256": "52b495bab4a4197b58ccd1038c0a3ccc64f50b99c9f642d7a18cee3a4986df15",
-  "sig": "TF6IXNEnsEPJQ3VeGWpVkfCuMgY6WYd1NtfXDJy6ssee/vYc8lcI+hkkj5brjjVpA87DIoIULifWHe4dAvHhBw==",
-  "size": 69097985,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.52/DaoMaiView-1.0.52.zip",
-  "version": "1.0.52"
+  "notes": "test",
+  "sha256": "4057c7b66a997791149f3b17f85fb9abcf8af5335b03ae26c11cfbeefedfe281",
+  "sig": "c+7YVbOBVcd9QYueBCinyHYmYSSb4oDgOtP+wmgJjWmQz/evnimgmrPz94c+Ah3wa/gEx+ccupZcIp8sqa7MCA==",
+  "size": 69097982,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.53/DaoMaiView-1.0.53.zip",
+  "version": "1.0.53"
 }

@@ -31,8 +31,11 @@ Màn lớn: bấm đúp một ô. Màn nhỏ: bật *Điều khiển màn nhỏ*
 |---|---|---|
 | Chuột trái: chạm / kéo | ✓ | ✓ (cả các máy đang chọn) |
 | Chuột phải | Back | Back (Ctrl + chuột phải = menu) |
-| Lăn chuột | Vuốt lên / xuống tại con trỏ | Vuốt lên / xuống (lăn ở khe giữa các ô để cuộn lưới) |
+| Lăn chuột | Vuốt lên / xuống tại con trỏ | Vuốt lên / xuống trên máy |
+| **Shift + lăn chuột** | — | **Cuộn lưới** lên / xuống |
 | **Ctrl + lăn chuột** | Zoom to / nhỏ (chụm 2 ngón) | Zoom to / nhỏ |
+| **Ctrl + Shift + lăn chuột** | Đổi cỡ màn lớn | **Đổi cỡ ô lưới** (nhỏ ↔ to) |
+| **Alt** (con trỏ trên ô) | — | **Ghim / bỏ ghim *Phóng to màn nhỏ*** — xem máy đó phóng to cố định (ô nổi có header STT · serial · IP, tự mờ sau 2 s khi rời chuột; nhấn Alt lần nữa để bỏ) |
 | **Giữ Ctrl** | Ghim một ngón tại con trỏ tới khi nhả Ctrl | Như màn lớn |
 | **Giữ Ctrl + kéo** | Ngón thứ hai → chụm / xoay thật | Như màn lớn |
 | Ctrl + C / Ctrl + X | Sao chép / cắt chữ đang chọn trên máy về PC | Gửi tới máy chạm gần nhất |
@@ -42,7 +45,9 @@ Màn lớn: bấm đúp một ô. Màn nhỏ: bật *Điều khiển màn nhỏ*
 | Gõ phím | Chữ (có dấu), Enter, Backspace, mũi tên, Home/End, PgUp/PgDn | — |
 
 - Lăn thường: mỗi nấc ≈ 5 % chiều cao màn; ngừng lăn 150 ms thì nhả ngón.
-- Khi không ghim: Ctrl + click vẫn là chọn nhiều ô. Kính lúp tự ẩn khi giữ Ctrl.
+- Khi không ghim: Ctrl + click vẫn là chọn nhiều ô. Nút phóng to tự ẩn khi giữ Ctrl.
+- **Nút phóng to + badge SpeedUD** trên ô có thể ẩn cho gọn (mục *Ẩn icon zoom + SpeedUD* trong **…Thêm**); khi ẩn, dùng **Ctrl + chuột phải** trên ô để mở màn lớn.
+- **Cỡ ô lưới**: nhiều mức từ nhỏ tới to (có 2 cỡ nhỏ thêm); icon app, badge SpeedUD và nút phóng to tự co theo cỡ ô.
 
 ### Đa PC — xem và điều khiển điện thoại của máy tính khác
 
@@ -76,10 +81,15 @@ Mở Node ra Internet (WAN):
 
 ### Chức năng khác
 
-- **Lưới**: số thứ tự, tên, serial, IP; thẻ / nhóm; tìm, lọc; xoay ô; kính lúp; tắt màn hình điện thoại nhưng vẫn
-  chiếu; tự đặt độ phân giải & DPI; bàn phím DaoMaiIME tự cài.
+- **Lưới**: số thứ tự, tên, serial, IP; thẻ / nhóm; tìm, lọc; xoay ô; nhiều cỡ ô (co giãn icon/badge theo cỡ);
+  *Phóng to màn nhỏ* (ghim bằng **Alt**); tắt màn hình điện thoại nhưng vẫn chiếu; tự đặt độ phân giải & DPI;
+  bàn phím DaoMaiIME tự cài.
 - **Hiệu năng**: mẫu *Nhiều máy / Cân bằng / Mượt nhất*; *Stream Siêu Cao* (mã hoá đúng cỡ ô, màn lớn có bộ mã hoá
-  riêng); *Video theo nhu cầu* (tắt luồng máy không ai xem); giải mã GPU (d3d11va / vaapi) hoặc CPU.
+  riêng); *Video theo nhu cầu* (tắt luồng máy không ai xem). Giải mã: **Tự động**, **Cân bằng CPU+GPU** (tự chia tải
+  theo số nhân CPU — Xeon nhiều nhân ưu tiên CPU, máy ít nhân đẩy bớt lên GPU), hoặc chọn hẳn GPU (NVIDIA/D3D11/Intel
+  QSV/AMD/DXVA2) / CPU. Tự phân bổ luồng theo số nhân (Xeon nhiều nhân rải nhiều máy song song).
+- **Thanh …Thêm**: ghim / ẩn các nút nhanh (Xóa clip, Tìm kiếm, SpeedUD, Hiện máy offline, Âm thanh màn lớn, Tự đổi
+  ngôn ngữ / múi giờ, Hiển thị chạm, Ghi log gỡ lỗi…); mỗi mục có nút **"!"** mô tả chi tiết.
 - **File / APK / văn bản**: cài APK hàng loạt (.apk/.xapk/.apkm/.apks, OBB); nhập, phân phối, xuất file; phân phối văn
   bản; clipboard nhiều máy; cụm từ nhanh; ảnh nền có số.
 - **Tự động hoá**: ghi và chạy lại thao tác; vuốt tự động; console shell nhiều máy; quản lý ứng dụng; proxy.
