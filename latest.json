@@ -1,10 +1,10 @@
 {
-  "build": 51,
+  "build": 52,
   "min_build": 0,
-  "notes": "Hop P20/P30: gop ket noi Cong (serial) va Mang (LAN) thanh 1 muc 2 tab; ket noi hop qua IP, luu danh sach IP kem ghi chu (sua/xoa), bao trang thai ket noi ro rang, dut ket noi khong treo app. Cai thien dieu khien may TWRP thao man (co man-ao dung + tai dung man-ao).",
-  "sha256": "b57048225c8360720b6e245101ca3cef811935e6452a4f48534296f1eb97d637",
-  "sig": "aLOUNAol6IIlqHHrIClAquqmeu155w7B73a4PjYO7crcu9zoQTB8eGxbxBtqsTsv+1dgEd7P4vNUJLEHG4sVDw==",
-  "size": 69037342,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.51/DaoMaiView-1.0.51.zip",
-  "version": "1.0.51"
+  "notes": "test",
+  "sha256": "4d406853af4cb2e007cef4e310f0ed4071b3586e170a97bd7cb90999198c98dd",
+  "sig": "C+m8uNalnVGcHczQJ40xo3aDbDprfnKMXqG582S8/0eFWfOnCWqGeesnmzeabOFrnKxdTTca2a4kFFIKDrcMCg==",
+  "size": 69097983,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.52/DaoMaiView-1.0.52.zip",
+  "version": "1.0.52"
 }
