@@ -1,10 +1,10 @@
 {
   "build": 53,
   "min_build": 0,
-  "notes": "test",
-  "sha256": "4057c7b66a997791149f3b17f85fb9abcf8af5335b03ae26c11cfbeefedfe281",
-  "sig": "c+7YVbOBVcd9QYueBCinyHYmYSSb4oDgOtP+wmgJjWmQz/evnimgmrPz94c+Ah3wa/gEx+ccupZcIp8sqa7MCA==",
-  "size": 69097982,
+  "notes": "Da PC: chap nhan dan URL tunnel http/https/tcp (bo scheme, noi TCP toi host:port). Tu dong GIO/MUI GIO/NGON NGU qua agent: PC lay gio chuan tu server kich hoat 1 lan roi dat dong ho may (mode -clock/IAlarmManager, tat auto_time_zone), dat ngon ngu (mode -locale, chay ca may KHONG root); sua xung dot auto_time_zone cu. Kem ban 52: Can bang CPU+GPU, gamepad menu, phong to man nho (Alt), cu chi cuon, TWRP xoay, chong sua file.",
+  "sha256": "7d8b2e3eae5bad59fda0c12d126023fbcb19d42f42a1933478a7c8ccf6572fb3",
+  "sig": "XQ10mmYwQh9aeAZyv5uVOHTuUmAb70PAh3fe5D2EAuByHYFTPe+UnCopLgAgvEudwZiCGrJcqgbz0XNFQLeSBQ==",
+  "size": 69097993,
   "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.53/DaoMaiView-1.0.53.zip",
   "version": "1.0.53"
 }
