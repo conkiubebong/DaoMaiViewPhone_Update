@@ -1,10 +1,10 @@
 {
-  "build": 55,
+  "build": 56,
   "min_build": 0,
-  "notes": "Sua loi phong to man lon + vuot lien tuc gay rot ket noi: (1) ep tran luong kep (encoder thu 2) <=960px/<=24fps/<=2.5Mbps de vuot khong qua tai may; (2) may ket 'Dang khoi tao' tu phuc hoi qua van tiet luu toan cuc, khong gay bao lenh adb.",
-  "sha256": "31a34981b8b5abb1cf4cde18ccf43ca55fcf99512c9e800db8294610bb3d981e",
-  "sig": "ZOJ/DRiRYuqXwfANDM6xOik5m6Lp1s5R98SrKbHNTmkC6wofzaw9AO/TTTagRClO1F24+okMVpRH01KPmNCzAw==",
-  "size": 69101761,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.55/DaoMaiView-1.0.55.zip",
-  "version": "1.0.55"
+  "notes": "adb fork 6.6.1 (va crash reconnect-offline/paced reconnect) cho ca Windows + Linux; giu fix phong to+vuot (1.0.55).",
+  "sha256": "08452718f652c80bc2c4f5e4c1957a3771a3d98df7b765fcf0a03444011d8d95",
+  "sig": "PYo40QDBf3D3LxDJLCzRn5H8vEV+BQAjimNznWcGLr7XDW+0fj5coZL7legD6xVvfQq++JRaI19sXxEM8FlLCA==",
+  "size": 68469687,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.56/DaoMaiView-1.0.56.zip",
+  "version": "1.0.56"
 }
