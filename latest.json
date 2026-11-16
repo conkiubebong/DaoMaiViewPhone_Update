@@ -1,10 +1,10 @@
 {
-  "build": 53,
+  "build": 54,
   "min_build": 0,
-  "notes": "Da PC: chap nhan dan URL tunnel http/https/tcp (bo scheme, noi TCP toi host:port). Tu dong GIO/MUI GIO/NGON NGU qua agent: PC lay gio chuan tu server kich hoat 1 lan roi dat dong ho may (mode -clock/IAlarmManager, tat auto_time_zone), dat ngon ngu (mode -locale, chay ca may KHONG root); sua xung dot auto_time_zone cu. Kem ban 52: Can bang CPU+GPU, gamepad menu, phong to man nho (Alt), cu chi cuon, TWRP xoay, chong sua file.",
-  "sha256": "7d8b2e3eae5bad59fda0c12d126023fbcb19d42f42a1933478a7c8ccf6572fb3",
-  "sig": "XQ10mmYwQh9aeAZyv5uVOHTuUmAb70PAh3fe5D2EAuByHYFTPe+UnCopLgAgvEudwZiCGrJcqgbz0XNFQLeSBQ==",
-  "size": 69097993,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.53/DaoMaiView-1.0.53.zip",
-  "version": "1.0.53"
+  "notes": "Nang agent (APK) len target Android 16 (SDK 36), tuong thich Android moi toi A17 (chay bang reflection). Cac phan khac giu nhu 1.0.53.",
+  "sha256": "c3fabca0198fe95c2f02722820a8f872fbe26878dd1d0da1fbafc14159c4d249",
+  "sig": "fCO68DKRcdlbL7cOKXpgoBh0UBh5ZgAhZpjWAlvBU3U1g1qeb8mB7H938kY5nwW91WotgXt88+DUM2WNsyQUDw==",
+  "size": 69101371,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.54/DaoMaiView-1.0.54.zip",
+  "version": "1.0.54"
 }
