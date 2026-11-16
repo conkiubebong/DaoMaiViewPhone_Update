@@ -1,10 +1,10 @@
 {
-  "build": 58,
+  "build": 59,
   "min_build": 0,
-  "notes": "P20/P30: tu dong gui lai reboot khi hop bao ban/khong phan hoi (het canh phai bam 2 lan); sua tab loc trong muc The; giu adb fork 6.6.1 + fix phong to+vuot.",
-  "sha256": "f9cf114e3b5ade9270d08c449e8519c7bac00fe70fcbe10360bbebb29694098a",
-  "sig": "w0/vPsXaHj4yC4QHnEGL8L3rn5f3PhVhvaEthkhPvPE7lgoDcIuUzQNvje5712rB8TdMkzq/jNJUiqxmE/AuDg==",
-  "size": 68474475,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.58/DaoMaiView-1.0.58.zip",
-  "version": "1.0.58"
+  "notes": "P20/P30 tu gui lai reboot (het bam 2 lan); sua adb open() khoa transport chet (loi 'no device with transport id' may Z Flip recovery); chuyen Do phan giai/DPI ra popup Them (switch + banh rang); giu fix tab loc + adb fork 6.6.1 + phong to/vuot.",
+  "sha256": "e65efeec2efce7e8d277578a3771154f56f5b2a6ea3e916c947817805d80cb9e",
+  "sig": "XQbkB5k21KD2+dfy9uCerxfSrzQ/q5aoSl1xqIw/oCQTgBEL2y3pvPqwJDRRRB0du8mBUuZ9HkXETHTNzr6hCg==",
+  "size": 68475559,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.59/DaoMaiView-1.0.59.zip",
+  "version": "1.0.59"
 }
