@@ -1,10 +1,10 @@
 {
-  "build": 54,
+  "build": 55,
   "min_build": 0,
-  "notes": "Nang agent (APK) len target Android 16 (SDK 36), tuong thich Android moi toi A17 (chay bang reflection). Cac phan khac giu nhu 1.0.53.",
-  "sha256": "c3fabca0198fe95c2f02722820a8f872fbe26878dd1d0da1fbafc14159c4d249",
-  "sig": "fCO68DKRcdlbL7cOKXpgoBh0UBh5ZgAhZpjWAlvBU3U1g1qeb8mB7H938kY5nwW91WotgXt88+DUM2WNsyQUDw==",
-  "size": 69101371,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.54/DaoMaiView-1.0.54.zip",
-  "version": "1.0.54"
+  "notes": "Sua loi phong to man lon + vuot lien tuc gay rot ket noi: (1) ep tran luong kep (encoder thu 2) <=960px/<=24fps/<=2.5Mbps de vuot khong qua tai may; (2) may ket 'Dang khoi tao' tu phuc hoi qua van tiet luu toan cuc, khong gay bao lenh adb.",
+  "sha256": "31a34981b8b5abb1cf4cde18ccf43ca55fcf99512c9e800db8294610bb3d981e",
+  "sig": "ZOJ/DRiRYuqXwfANDM6xOik5m6Lp1s5R98SrKbHNTmkC6wofzaw9AO/TTTagRClO1F24+okMVpRH01KPmNCzAw==",
+  "size": 69101761,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.55/DaoMaiView-1.0.55.zip",
+  "version": "1.0.55"
 }
