@@ -1,10 +1,10 @@
 {
-  "build": 61,
+  "build": 62,
   "min_build": 0,
-  "notes": "Gom: fix input/encoder (khong drop UP/DOWN khi queue day + debounce encoder chong ENODEV luc vuot zoom); recovery/filter 1.0.60 (tab Truc tuyen hien may TWRP; serial_of tro dung serial recovery song); them i18n menu Ngat ket noi (WiFi/OTG) het hien key tho; noi rong menu chuot phai + panel control khi zoom.",
-  "sha256": "9428cc888ede9137249b45ec2160aee28d7147708ad9de83c4a7cb5ce4b58da4",
-  "sig": "vRmg1hgy0cSWUeX4qfFafIJRGQduglQR6+udjhL03OBs9C/6FipEnNbqP2Q5CiWmsU16ACAH+ibz9J6GmKvrDg==",
-  "size": 68478784,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.61/DaoMaiView-1.0.61.zip",
-  "version": "1.0.61"
+  "notes": "R0 do dac hieu nang: dat DMV_PERF_LOG=1 de ghi log dmv_perf (total/active/dormant/focus + do tre mo->khung dau avg/p95/max) moi 5s vao file log; tat thi khong anh huong. Chuan bi toi uu mo-ket-noi/decode.",
+  "sha256": "1071d58acb4e3050ae99c13dd94fc2d21be43d1bdb7e3500df26a677618900df",
+  "sig": "8NGvgo+0KfdDid8z7TYkPwhkG1cOVYo7djfT2uSbaabyP24sZXzL62CC55kD/Mt/ZE71n6xblxfeNrdkJH3oCw==",
+  "size": 68483636,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.62/DaoMaiView-1.0.62.zip",
+  "version": "1.0.62"
 }
