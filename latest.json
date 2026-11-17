@@ -1,10 +1,10 @@
 {
-  "build": 60,
+  "build": 61,
   "min_build": 0,
-  "notes": "Tab 'Truc tuyen' hien luon may recovery/TWRP (truoc day bi giau vi loi coi la offline); sua may TWRP tung online qua LAN bi ket 'chua day duoc dmvgrab' (serial_of tro ve dia chi LAN cu da offline -> gio tro dung serial recovery song).",
-  "sha256": "e932686be9622c34ed06299b3c803428ca0c635353e35cf79d24021aa8f21d67",
-  "sig": "kJrCFqT3DVXFtYQmM2E0PeipgDs2qzn1ENLbSdw9BuLjNjdEv1PSMxTKutMiFTxIRP4SWh8tXKzb0znx+zgoCQ==",
-  "size": 68475188,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.60/DaoMaiView-1.0.60.zip",
-  "version": "1.0.60"
+  "notes": "Gom: fix input/encoder (khong drop UP/DOWN khi queue day + debounce encoder chong ENODEV luc vuot zoom); recovery/filter 1.0.60 (tab Truc tuyen hien may TWRP; serial_of tro dung serial recovery song); them i18n menu Ngat ket noi (WiFi/OTG) het hien key tho; noi rong menu chuot phai + panel control khi zoom.",
+  "sha256": "9428cc888ede9137249b45ec2160aee28d7147708ad9de83c4a7cb5ce4b58da4",
+  "sig": "vRmg1hgy0cSWUeX4qfFafIJRGQduglQR6+udjhL03OBs9C/6FipEnNbqP2Q5CiWmsU16ACAH+ibz9J6GmKvrDg==",
+  "size": 68478784,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.61/DaoMaiView-1.0.61.zip",
+  "version": "1.0.61"
 }
