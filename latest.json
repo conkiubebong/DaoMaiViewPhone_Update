@@ -1,10 +1,10 @@
 {
-  "build": 63,
+  "build": 64,
   "min_build": 0,
-  "notes": "Sua loi + hieu suat. (1) May bo tich trong Da PC khong con tu hien lai; adb doi ban moi thi tu kill ban cu roi thay. (2) adb server chet thi cac may MAT HAN, khong con ket 'Dang khoi tao'. (3) Man lon KHONG phong to qua man hinh (ke ca may nam ngang) va khong doi do phan giai theo co khung. (4) Het tre ~2s moi thao tac khi phong to/thu nho lien tuc + mo nhieu may cung luc.",
-  "sha256": "400a48cb71c8bbdef71ff3e1ad385fbd468ed04a7cf0043dcccd6796d694966f",
-  "sig": "0vIVbIFj3qtWDsCPupwWb7jT1lDh+ITB8I0Sjlz2NZIkWdD1JxaBcCGBWNuPwo6hSIt2sZjGeUpOP47LEq5oDA==",
-  "size": 68485945,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.63/DaoMaiView-1.0.63.zip",
-  "version": "1.0.63"
+  "notes": "Sua man lon: xoay ngang KHONG con to gap ~lan (tinh dung do dai canh dai); nut xoay hien thi DAO CHIEU 0->90->180->270. Tren nen 1.0.63 (may bo tich khong tu hien lai, adb server chet thi may mat han, het tre ~2s khi phong to + mo nhieu may).",
+  "sha256": "9e9f1b75ae4e05880b97e52c0a794351c281594414b7247d4b2ee19f8722db6b",
+  "sig": "hGKNLuA8hL2diGhf+p39CL6b/2JAjsJZ+hxE2FXl3EZihEQOnFAxzNvkTakkwYFW9QdbpDs09FU5gBn8GwIoCw==",
+  "size": 68486175,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.64/DaoMaiView-1.0.64.zip",
+  "version": "1.0.64"
 }
