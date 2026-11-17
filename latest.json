@@ -1,10 +1,10 @@
 {
-  "build": 62,
+  "build": 63,
   "min_build": 0,
-  "notes": "R0 do dac hieu nang: dat DMV_PERF_LOG=1 de ghi log dmv_perf (total/active/dormant/focus + do tre mo->khung dau avg/p95/max) moi 5s vao file log; tat thi khong anh huong. Chuan bi toi uu mo-ket-noi/decode.",
-  "sha256": "1071d58acb4e3050ae99c13dd94fc2d21be43d1bdb7e3500df26a677618900df",
-  "sig": "8NGvgo+0KfdDid8z7TYkPwhkG1cOVYo7djfT2uSbaabyP24sZXzL62CC55kD/Mt/ZE71n6xblxfeNrdkJH3oCw==",
-  "size": 68483636,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.62/DaoMaiView-1.0.62.zip",
-  "version": "1.0.62"
+  "notes": "Sua loi + hieu suat. (1) May bo tich trong Da PC khong con tu hien lai; adb doi ban moi thi tu kill ban cu roi thay. (2) adb server chet thi cac may MAT HAN, khong con ket 'Dang khoi tao'. (3) Man lon KHONG phong to qua man hinh (ke ca may nam ngang) va khong doi do phan giai theo co khung. (4) Het tre ~2s moi thao tac khi phong to/thu nho lien tuc + mo nhieu may cung luc.",
+  "sha256": "400a48cb71c8bbdef71ff3e1ad385fbd468ed04a7cf0043dcccd6796d694966f",
+  "sig": "0vIVbIFj3qtWDsCPupwWb7jT1lDh+ITB8I0Sjlz2NZIkWdD1JxaBcCGBWNuPwo6hSIt2sZjGeUpOP47LEq5oDA==",
+  "size": 68485945,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.63/DaoMaiView-1.0.63.zip",
+  "version": "1.0.63"
 }
