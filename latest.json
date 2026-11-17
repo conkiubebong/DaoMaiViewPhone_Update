@@ -1,10 +1,10 @@
 {
-  "build": 59,
+  "build": 60,
   "min_build": 0,
-  "notes": "P20/P30 tu gui lai reboot (het bam 2 lan); sua adb open() khoa transport chet (loi 'no device with transport id' may Z Flip recovery); chuyen Do phan giai/DPI ra popup Them (switch + banh rang); giu fix tab loc + adb fork 6.6.1 + phong to/vuot.",
-  "sha256": "e65efeec2efce7e8d277578a3771154f56f5b2a6ea3e916c947817805d80cb9e",
-  "sig": "XQbkB5k21KD2+dfy9uCerxfSrzQ/q5aoSl1xqIw/oCQTgBEL2y3pvPqwJDRRRB0du8mBUuZ9HkXETHTNzr6hCg==",
-  "size": 68475559,
-  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.59/DaoMaiView-1.0.59.zip",
-  "version": "1.0.59"
+  "notes": "Tab 'Truc tuyen' hien luon may recovery/TWRP (truoc day bi giau vi loi coi la offline); sua may TWRP tung online qua LAN bi ket 'chua day duoc dmvgrab' (serial_of tro ve dia chi LAN cu da offline -> gio tro dung serial recovery song).",
+  "sha256": "e932686be9622c34ed06299b3c803428ca0c635353e35cf79d24021aa8f21d67",
+  "sig": "kJrCFqT3DVXFtYQmM2E0PeipgDs2qzn1ENLbSdw9BuLjNjdEv1PSMxTKutMiFTxIRP4SWh8tXKzb0znx+zgoCQ==",
+  "size": 68475188,
+  "url": "https://github.com/conkiubebong/DaoMaiViewPhone_Update/releases/download/v1.0.60/DaoMaiView-1.0.60.zip",
+  "version": "1.0.60"
 }
